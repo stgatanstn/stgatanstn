@@ -1,7 +1,5 @@
 ** Hey there! I'm [@stgatanstn]**
 
-[![IMG_20240509_104019_632]]
-
 I'm passionate about building web applications and diving into the exciting world of machine learning.
 
 Right now, I'm  grinding away at mastering the fundamentals of Java and building a strong foundation in HTML, CSS, and PHP.  These are the building blocks for creating dynamic and interactive web experiences!
