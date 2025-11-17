@@ -8,6 +8,6 @@ Bonus!  I'm actively honing my coding skills and eager to learn more.  If you're
 
 Connect with me:
 
-Email: [hawlonathan@gmail.com]
+Email: [gilson.dokumenkerja@gmail.com]
 Instagram: [@gil00nn]
 He/him
